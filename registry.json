@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-12T00:00:00Z",
+  "updated_at": "2026-06-14T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -137,7 +137,7 @@
       "id": "qobuz-web",
       "name": "qobuz-web",
       "display_name": "Qobuz",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "Qobuz metadata and download provider for SpotiFLAC Mobile.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.spotiflac-ext",
       "category": "download",
@@ -149,14 +149,14 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-05-31T00:00:00Z",
+      "updated_at": "2026-06-14T00:00:00Z",
       "min_app_version": "4.5.0"
     },
     {
       "id": "tidal-web",
       "name": "tidal-web",
       "display_name": "Tidal",
-      "version": "1.0.7",
+      "version": "1.0.9",
       "description": "TIDAL metadata and search provider for SpotiFLAC Mobile using TIDAL public web endpoints.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.spotiflac-ext",
       "category": "download",
@@ -168,7 +168,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-05-31T00:00:00Z",
+      "updated_at": "2026-06-14T00:00:00Z",
       "min_app_version": "4.5.0"
     }
   ]
